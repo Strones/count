@@ -1,0 +1,26 @@
+{
+  "fitbit": {
+    "appUUID": "f92bf065-4c9e-40c4-abe1-6a44e7859296",
+    "appType": "app",
+    "appDisplayName": "Count",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#607d8b",
+    "requestedPermissions": [],
+    "buildTargets": [
+      "higgs",
+      "meson"
+    ],
+    "i18n": {
+      "en": {
+        "name": "Count"
+      }
+    }
+  },
+  "devDependencies": {
+    "@fitbit/sdk": "~1.0.0",
+    "@fitbit/sdk-cli": "^1.0.0"
+  },
+  "scripts": {
+    "build": "fitbit-build"
+  }
+}

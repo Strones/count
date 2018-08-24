@@ -1,0 +1,15 @@
+#background{
+  viewport-fill: black;
+}
+
+
+#number{
+  font-size: 180;
+  font-family: Fabrikat-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 70%;
+  y: 70%;
+  fill: 'white';
+  
+}
