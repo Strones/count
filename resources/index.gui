@@ -2,7 +2,7 @@
 
  <rect  id="background" x="0"   y="0" width="100%" height="100%"  pointer-events="visible"/>
   <text id="numberLabel" fill = "white" y="65%" x="50%" font-size="110"  text-anchor= "middle"></text>
-   <text id="myClock" x="25%" y="95%"
+   <text id="myClock" x="50%" y="25%"
       fill="white" font-size="55" font-family="System-Regular"
       text-anchor="middle" text-length="20">00:00</text>
   
